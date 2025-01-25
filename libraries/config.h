@@ -3,8 +3,8 @@
 #define CONFIG_H
 
 // WiFi credentials
-#define WIFI_SSID "zainab-2.4GHz"
-#define WIFI_PASSWORD "zai0133941228"
+#define WIFI_SSID "YOUR_SSID"
+#define WIFI_PASSWORD "YOUR_PASSWORD"
 
 // MQTT broker settings
 #define MQTT_SERVER "35.225.251.143" // Your VM instance public IP address
